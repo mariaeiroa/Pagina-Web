@@ -1,0 +1,60 @@
+/* PARA SEPARAR FILAS */
+.fila-formulario{
+    /* Margen por arriba */
+    margin-top: 10px; 
+
+    /* Margen por abajo */
+    margin-bottom: 10px;
+
+    /* Borde */
+        /* border: 2px solid black; */
+
+    /* Distancia entre el borde y lo que escribes */
+            /* padding: 8px; */
+    
+}
+
+.label{
+    margin-right: 10px;
+    color: forestgreen;
+    /* estilo letra */
+    font-style: italic;
+    font-size: 25px;
+    /* tipo de letra */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+input{
+    color: blue;
+    border: 5px solid blue;
+    background-color: chartreuse;
+
+}
+/* Para modificar tamaño foto añadida en HTML */
+img{
+    width:400px;
+    height: 200px;
+}
+
+/* input:focus{
+    background-color: blue;
+}
+
+input:hover{
+    background-color: red;
+} */
+
+table,tr,td,th{
+    border-width: 2px;
+    border-color: rebeccapurple;
+    border-style: solid;
+    text-align: center;
+    color: darkblue;
+     /* border-top-style: dotted;
+    border-bottom-style: dashed;
+    border-left-style: groove;
+    border-right-style: double; */
+
+    /* Borde redondeado */
+    /* border-radius: 5px; */
+}
